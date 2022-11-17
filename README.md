@@ -1,5 +1,5 @@
 # Weather_App
-Webiste : https://safecadet.github.io/Weather_App/
+Webiste : https://regret3061.github.io/Weather-App/
 
 Displays Weather Report of the searched city.
 
